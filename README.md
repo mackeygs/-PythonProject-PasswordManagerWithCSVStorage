@@ -46,5 +46,12 @@ A command‑line Password Manager that allows users to securely store, retrieve,
 - Uses Python's argparse to parse flags and handle incorrect usage.
 - Secure password generator uses letters, digits, and symbols.
 
+### Examples
+- python password_manager.py -add example.com admin P@ss123
+- python password_manager.py -get example.com
+- python password_manager.py -update example.com password NewPass!
+- python password_manager.py -gen test.com user123 16
+- python password_manager.py -delete example.com
+
 ### License
 Open source, free to use.
