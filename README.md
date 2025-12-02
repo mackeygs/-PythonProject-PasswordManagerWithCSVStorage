@@ -1,4 +1,4 @@
-# -PythonProject-PasswordManagerWithCSVStorage
+# PythonProject-PasswordManagerWithCSVStorage
 
 ## Author
 Geoffrey Mackey
